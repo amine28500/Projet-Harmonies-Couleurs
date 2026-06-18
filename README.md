@@ -30,6 +30,9 @@ Interface interactive permettant de sélectionner une couleur.
 harmonies_couleurs.py :
 Génération automatique des harmonies et création d'une image.
 
+Conversion.py :
+Conversation d'une longueur d'onde en RGB, CMYK, Lab, HEX et HSV.
+
 ## Exécution
 
 pip install -r requirements.txt
