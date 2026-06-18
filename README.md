@@ -32,13 +32,3 @@ Génération automatique des harmonies et création d'une image.
 
 Conversion.py :
 Conversation d'une longueur d'onde en RGB, CMYK, Lab, HEX et HSV.
-
-## Exécution
-
-pip install -r requirements.txt
-
-python cercle_ryb.py
-
-ou
-
-python harmonies_couleurs.py
